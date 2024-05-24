@@ -9,3 +9,8 @@ Utility for calling ckan APIs.
 * source venv/bin/activate
 * pip install -r requirements.txt
 * python app.py
+
+## Test with Linter
+
+* pip install flake8
+* flake8 app.py
