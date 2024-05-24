@@ -10,7 +10,7 @@ Utility for calling ckan APIs.
 * pip install -r requirements.txt
 * python app.py
 
-## Test with Linter
+## Linter
 
 * pip install flake8
 * flake8 app.py
