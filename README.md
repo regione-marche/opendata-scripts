@@ -8,9 +8,9 @@ Utility for calling ckan APIs.
 * python -m venv venv
 * source venv/bin/activate
 * pip install -r requirements.txt
-* python app.py
+* ```python download-resource.py``` or ```python get-csv-packages.py```
 
 ## Linter
 
-* pip install flake8
-* flake8 app.py
+* ```pip install flake8```
+* ```flake8 download-resource.py``` or ```flake8 get-csv-packages.py```

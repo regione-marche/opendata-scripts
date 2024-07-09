@@ -1,0 +1,59 @@
+package_id,title,resource_id,format
+abilita,Abilità,aaf358a6-a0bf-4893-8d4a-109e138b65c8,CSV
+anagrafica-strutture-ricettive,Anagrafica Strutture ricettive della Regione Marche,ee37e43b-3a33-443e-b92d-21af73ef631e,CSV
+attivita,Attività,9618f855-3802-4adc-9b5f-3553bc12f6e1,CSV
+borsinoassunzioni,Borsino delle assunzioni nella Regione Marche,7daca4c8-895a-42a2-a859-22108c8830ab,CSV
+c_a329_dataset_aree-sosta-camper,Aree sosta camper,10d5de03-5de8-4b74-8f99-10236db07823,CSV
+c_a329_dataset_associazioni-di-volontariato,Associazioni di volontariato,9990e6bf-b90b-40ed-a3f3-422493cf86ee,CSV
+c_a329_dataset_associazioni-sportive,Associazioni sportive,21e9e98b-734c-4252-a080-6b9a714b834e,CSV
+c_a329_dataset_bandi-di-gara_2019,Bandi di gara 2019,c91ec04f-41ef-4f9a-9c9c-4f7bbde23828,CSV
+c_a329_dataset_bandi-di-gara_2020,Bandi di gara 2020,2067c840-0b5b-449f-9269-aed7356c74ea,CSV
+c_a329_dataset_biblioteche,Biblioteche,49bdf897-1c2e-408c-82d7-de2967320b40,CSV
+c_a329_dataset_case-vacanze,Case vacanza,3a1d5dfd-69a8-437b-93d7-68df63e39ed9,CSV
+c_a329_dataset_chiese,Chiese,02586d90-37c0-45c8-b7e5-15b1285471f5,CSV
+c_a329_dataset_concorsi_2019,Concorsi 2019,f5d20de9-5b37-46ea-b87f-59ec22e3d6c6,CSV
+c_a329_dataset_concorsi_2020,Concorsi 2020,4fe4399f-9203-4a25-b3e0-5478584876d3,CSV
+c_a329_dataset_concorsi_2021,Concorsi 2021,d527b705-929e-40c4-88a1-3c0c42dd2e36,CSV
+c_a329_dataset_concorsi_2022,Concorsi 2022,3a46d131-0a85-4623-a8ac-ff800a5c0c42,CSV
+c_a329_dataset_concorsi_2023,Concorsi 2023,7ce2facb-6312-42a4-b7b0-e3cb26eefdaf,CSV
+c_a329_dataset_delibere-csv,Provvedimenti organo indirizzo-politico,ebd3f1b8-eb38-410a-8b38-88f3b3936f7c,CSV
+c_a329_dataset_determine-csv,Determine,f6a6422c-4c06-4b27-a71b-93d74acbc237,CSV
+c_a329_dataset_edifici_pubblici,Anagrafe edifici pubblici e ad uso pubblico,352a4fa9-9aa4-4e5a-a5e6-913558e7b391,CSV
+c_a329_dataset_eventi-culturali,Eventi culturali,0fecb416-8b3a-4312-90fc-a287396c7bde,CSV
+c_a329_dataset_impianti-sportivi,Impianti sportivi,d8d5e658-ce75-4352-b79b-ca066033c210,CSV
+c_a329_dataset_isola-ecologica,Isola ecologica,410ac131-9466-4cab-a4b0-3f5e58e2c6ee,CSV
+c_a329_dataset_istituti-bancari,Istituti bancari,feeac5b6-4805-4758-b5b3-cd83a1414daf,CSV
+c_a329_dataset_monumenti,Monumenti,4f41fd69-9a34-4ab7-8f47-979ce974c12e,CSV
+c_a329_dataset_musei,Musei,04155233-e336-49b4-b81c-73b1ec51a623,CSV
+c_a329_dataset_numeri-utili,Numeri utili,41040b5f-9981-4063-ab18-c4139d764f52,CSV
+c_a329_dataset_org-uffici,Organizzazione uffici,3c8ca0ec-ff7e-4dec-a5b8-c4e762c4c3d4,CSV
+c_a329_dataset_parrocchie,Parrocchie,13b70ef7-2d6a-4d00-ab8a-f550edc1458a,CSV
+c_a329_dataset_patrimonio-artistico,Patrimonio artistico,d0a29b57-22cc-4523-91a5-be63572de6f6,CSV
+c_a329_dataset_personaggi-illustri,Personaggi Illustri,b1e7ae31-fb39-4baf-b278-c3504932b550,CSV
+c_a329_dataset_procedimenti_elettorale,Tipologie di procedimento Elettorale,ab96acd4-fda4-4741-8cf7-8abdceb245b3,CSV
+c_a329_dataset_procedimenti_polizia-municipale,Tipologie di procedimento Polizia Municipale,25774a9f-b87b-44de-a5e1-34c117b31368,CSV
+c_a329_dataset_procedimenti_ragioneria,Tipologie di procedimento Ragioneria,b5397a32-59a5-41a1-9a6d-a6d7bf344f4d,CSV
+c_a329_dataset_procedimenti_segreteria-protocollo,Tipologie di procedimento Segreteria - Protocollo,798eef0c-6d46-4bf8-9576-0b8858a3e7cb,CSV
+c_a329_dataset_procedimenti_servizi-demografici-anagrafe-stato-civile-leva,Tipologie di procedimento Servizi Demografici (Anagrafe - Stato Civile - Leva),101d1b6a-817f-4432-827a-6c8b121b0734,CSV
+c_a329_dataset_procedimenti_tecnico-edilizia-urbanistica-lavori-pubblici,Tipologie di procedimento Tecnico - Edilizia - Urbanistica - Lavori Pubblici,24538c7d-d7b1-4f35-907f-207de44221d0,CSV
+c_a329_dataset_prodotti-enogastronomici,Prodotti enogastronomici,4713e3e4-1cdd-4f77-bd0b-8cf3a1775d69,CSV
+c-a329-dataset-provvedimenti-organo-indirizzo-politico,Provvedimenti organo indirizzo-politico,a5896472-3331-420a-82a3-622563cb9a5e,CSV
+c_a329_dataset_pubblica-sicurezza-e-vigilanza,Pubblica sicurezza e vigilanza,fad887e6-2808-4922-8240-8e14f234f29a,CSV
+c_a329_dataset_raccolta-differenziata_2019,Raccolta Differenziata 2019,dd5f7335-9d33-4561-8890-90f5fdec7432,CSV
+c_a329_dataset_raccolta-differenziata_2020,Raccolta Differenziata 2020,40280c4b-0b6f-4072-979f-0cf733bedfed,CSV
+c_a329_dataset_raccolta-differenziata_2021,Raccolta Differenziata 2021,d44c30f5-cd05-4444-a17e-36a0e1723e84,CSV
+c_a329_dataset_ricette-della-tradizione,Ricette della tradizione,91a5ba10-01e4-4801-be1c-315a1978131b,CSV
+c_a329_dataset_sedi_amministrative,Sedi Amministrative,6b26b320-ddbd-406a-b92b-76e0c1054430,CSV
+c_a329_dataset_sport-e-tempo-libero,Itinerari: sport e tempo libero,adaaa344-1c45-4105-b2ae-46bc7baeaeee,CSV
+c_a329_dataset_strutture-medico-sanitarie,Strutture medico-sanitarie,e0e8468e-b7a4-4d76-885e-de3fd6147046,CSV
+c_a329_dataset_strutture-ricettive-allaperto,Strutture ricettive all'aperto,ac44bc29-44e9-42a9-87ac-46f02306b0aa,CSV
+c_a329_dataset_strutture-ricettive-extra-alberghiere,Strutture ricettive extra-alberghiere,e2fc4a17-0ebf-41c9-a01d-a82fd191c4c7,CSV
+c_a329_dataset_suap-classificazione-settore-attivita_2019,SuapClassificazione 2019,96b3c2af-c2c4-4613-9112-332ab512f2dc,CSV
+c_a329_dataset_suap-classificazione-settore-attivita_2020,SuapClassificazione 2020,e1bfb8b2-4ce1-4e9d-9489-6cda48badd1a,CSV
+c_a329_dataset_suap-eventi_2019,SuapEventi 2019,1f546a6d-ff5c-48be-83c0-193df9be32c5,CSV
+c_a329_dataset_suap-eventi_2020,SuapEventi 2020,57562d2b-78d3-44fd-90b7-6a3569461959,CSV
+c_a329_dataset_suap-nazionalita-dichiaranti_2019,SuapNazionalitaDichiaranti 2019,e0c610cc-1f2d-4771-a0e1-860233e019e4,CSV
+c_a329_dataset_suap-nazionalita-dichiaranti_2020,SuapNazionalitaDichiaranti 2020,b69b8cf9-5352-401e-ba98-6a4ed91821a1,CSV
+c_a329_dataset_suap-perido-eventi_2019,SuapPeriodoEventi 2019,04af0166-a036-4c40-8228-be0e2a9998aa,CSV
+c_a329_dataset_suap-perido-eventi_2020,SuapPeriodoEventi 2020,21877203-15e2-4bb7-b2da-ba84cde329f8,CSV
+c_a329_dataset_suap-tempi-medi_2019,SuapTempiMedi 2019,485c7a13-5a15-44c4-8860-a57dd4b9f141,CSV
